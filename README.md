@@ -4,8 +4,8 @@
 
 # Slides for PyTexas 2024 talk: Voice Computing with Python in Jupyter Notebooks
 
-The annual PyTexas meeting is a regional meeting that has been running since 2007 (https://www.pytexas.org/2024/).
-Volunteers run the meeting; they spend the prior year working hard on organizing the meeting.
+The annual [PyTexas meeting](https://www.pytexas.org/2024/) is a regional meeting that has been running since 2007.
+Volunteers run the meeting; they spend the prior year working hard to organize it.
 
 There were 18 speakers from around the United States.
 There were also additional attendees from all around the United States.
