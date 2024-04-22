@@ -20,7 +20,7 @@ The talks were recorded and will eventually appear on the PyTexas YouTube channe
 The meeting organizers did a fantastic job!
 
 This repository contains the slides and three narrated videos that provided coding demonstrations and were used with the slides for a talk about using voice computing in Jupyter.
-The demo involving voice computing in a markdown cell received applause.
+The demo involving voice computing in a markdown cell received applause. This is the first time that I have gotten applause in the middle of a talk.
 
 ## Installation
 
