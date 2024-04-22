@@ -22,6 +22,13 @@ The meeting organizers did a fantastic job!
 This repository contains the slides and three narrated videos that provided coding demonstrations and were used with the slides for a talk about using voice computing in Jupyter.
 The demo involving voice computing in a markdown cell received applause.
 
+## Installation
+
+- git clone the repo. The slides will be expecting the videos subdirectory to be present.
+- Open the PDF in Adobe Reader.
+- I used QuickTime on a Mac to run the videos.
+- These videos open in `QuickTime\ Player.app` when you click on the center of the slides with **Demo** in the title.
+
 
 ## Updates
 
