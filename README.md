@@ -16,17 +16,17 @@ There was a large contingent from Bloomberg in NYC.
 There were over 200 people in attendance.
 The first day had two great tutorial sessions.
 The second and third days had excellent talks.
-There were terrific lightning talks.
-The talks were recorded and will eventually appear on the PyTexas YouTube channel.
-
+There were terrific lightning talks at the end of each day.
+The talks were recorded and will eventually appear on the [PyTexas YouTube channel](https://www.youtube.com/@PyTexas/playlists).
 The meeting organizers did a fantastic job!
 
 This repository contains the slides and three narrated videos that provided coding demonstrations and were used with the slides for a talk about using voice computing in Jupyter.
-The demo involving voice computing in a markdown cell received applause. This is the first time that I have gotten applause in the middle of a talk.
+The demo of voice computing in a markdown cell received applause. 
+This is the first time that I have received applause in the middle of a talk.
 
 ## Installation
 
-- git clone the repo. The slides will be expecting the videos subdirectory to be present.
+- git clone the repo. The slides will be expecting the `videos` subdirectory to be present.
 - Open the PDF in Adobe Reader.
 - I used QuickTime on a Mac to run the videos.
 - These videos open in `QuickTime\ Player.app` when you click on the center of the slides with **Demo** in the title.
