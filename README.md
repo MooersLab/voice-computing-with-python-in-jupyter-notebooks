@@ -1,22 +1,23 @@
-![Version](https://img.shields.io/static/v1?label=voice-computing-with-python-in-jupyter-notebooks&message=0.1&color=brightcolor)
+![Version](https://img.shields.io/static/v1?label=voice-computing-with-python-in-jupyter-notebooks&message=0.1.1&color=brightcolor)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 
 # Slides for PyTexas 2024 talk: Voice Computing with Python in Jupyter Notebooks
 
 The annual [PyTexas meeting](https://www.pytexas.org/2024/) is a regional meeting that has been running since 2007.
+It is the oldest running regional meeting about Python in the United States.
 It is associated with the very active monthly PyTexas meetup.
-They let people from outside of Texas participate.
+They let people from outside of Texas participate in both the monthly Meetup and in the annual meeting.
 Volunteers run the meeting; they spend the prior year working hard to organize it.
 
 There were 18 speakers from around the United States.
-There were also additional attendees from all around the United States.
+There were also additional attendees from around the United States.
 There was a large contingent from Bloomberg in NYC.
 
 There were over 200 people in attendance.
-The first day had two great tutorial sessions.
-The second and third days had excellent talks.
-There were terrific lightning talks at the end of each day.
+On the first day, we had two great tutorial sessions.
+On the second and third days, we had excellent talks.
+There were terrific lightning talks at the end of the last two days.
 The talks were recorded and will eventually appear on the [PyTexas YouTube channel](https://www.youtube.com/@PyTexas/playlists).
 The meeting organizers did a fantastic job!
 
@@ -37,7 +38,7 @@ This is the first time that I have received applause in the middle of a talk.
 |Version      | Changes                                                                                                                                    | Date                 |
 |:-----------:|:------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------:|
 | Version 0.1 |  Initiated repo                                                                                                                            | 2024 April 22        |
-
+| Version 0.1.1 |  Minor edits of the README.md file.                                                                                                       | 2024 May 12       |
 
 ## Funding
 - NIH: R01 CA242845, R01 AI088011
